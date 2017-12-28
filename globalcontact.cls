@@ -3,6 +3,7 @@ global class GlobalConstants {
     //Sunny test on 1226
     //Sunny test merge 2 and conflict and 1228
     //l Process 1507:
+    //Add this line by dev
     Public Static String OPPORTUNITY = 'CloneOpportunity';
     Public Static String CLONE_OPPTY = 'getCloneOpp';
     //Approval Center component Req no: something 
